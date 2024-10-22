@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "cover_image": "https://unsplash.com/photos/_dK2tDlXheQ",
+      "title": "Exploring the Future of AI: Trends and Innovations",
+      "author_image": "https://unsplash.com/photos/NohB3FJSY90",
+      "author_name": "John Doe",
+      "post_date": "2024-10-22",
+      "reading_time": 5,
+      "hash_tags": ["AI", "Machine Learning", "Innovation", "Tech"],
+      "post_description": "Dive into the latest trends and innovations in artificial intelligence and how they are shaping the future of technology."
+    },
+    {
+      "id": 2,
+      "cover_image": "https://unsplash.com/photos/BbSBf5uv50A",
+      "title": "Blockchain Beyond Cryptocurrency: Real-World Applications",
+      "author_image": "https://unsplash.com/photos/A5rCN8626Ck",
+      "author_name": "Alice Smith",
+      "post_date": "2024-10-20",
+      "reading_time": 8,
+      "hash_tags": ["Blockchain", "Cryptocurrency", "Tech", "Fintech"],
+      "post_description": "Discover how blockchain technology is making an impact beyond the world of cryptocurrency, revolutionizing industries like healthcare, finance, and more."
+    },
+    {
+      "id": 3,
+      "cover_image": "https://unsplash.com/photos/OqtafYT5kTw",
+      "title": "The Rise of Quantum Computing: What You Need to Know",
+      "author_image": "https://unsplash.com/photos/pbnHfffx7tk",
+      "author_name": "Michael Johnson",
+      "post_date": "2024-10-18",
+      "reading_time": 6,
+      "hash_tags": ["Quantum Computing", "Tech", "Innovation"],
+      "post_description": "Quantum computing is no longer a futuristic dream. Learn about its advancements and the potential to solve complex problems faster than ever."
+    },
+    {
+      "id": 4,
+      "cover_image": "https://unsplash.com/photos/vpvMcuESn7Y",
+      "title": "Cloud Computing: Shaping the Future of Business",
+      "author_image": "https://unsplash.com/photos/OU4xHLp-RSg",
+      "author_name": "Emily Davis",
+      "post_date": "2024-10-16",
+      "reading_time": 7,
+      "hash_tags": ["Cloud Computing", "Tech", "Business"],
+      "post_description": "Explore how cloud computing has revolutionized the way businesses operate, offering scalability, flexibility, and cost-effectiveness."
+    },
+    {
+      "id": 5,
+      "cover_image": "https://unsplash.com/photos/3Q7IVxoUboM",
+      "title": "Cybersecurity in 2024: Trends and Threats",
+      "author_image": "https://unsplash.com/photos/X6Uj51n5CE8",
+      "author_name": "Robert Brown",
+      "post_date": "2024-10-14",
+      "reading_time": 6,
+      "hash_tags": ["Cybersecurity", "Tech", "Security"],
+      "post_description": "Stay ahead of the latest cybersecurity trends and learn how businesses can protect themselves from emerging threats in 2024."
+    },
+    {
+      "id": 6,
+      "cover_image": "https://unsplash.com/photos/f77Bh3inUpE",
+      "title": "5G Technology: The Next Frontier in Connectivity",
+      "author_image": "https://unsplash.com/photos/JyVcAIUAcPM",
+      "author_name": "Sophia Clark",
+      "post_date": "2024-10-12",
+      "reading_time": 5,
+      "hash_tags": ["5G", "Connectivity", "Tech", "Innovation"],
+      "post_description": "Learn how 5G technology is set to revolutionize the way we connect, enabling faster speeds and transforming industries worldwide."
+    },
+    {
+      "id": 7,
+      "cover_image": "https://unsplash.com/photos/wdKdHnzjzDo",
+      "title": "The Role of Artificial Intelligence in Healthcare",
+      "author_image": "https://unsplash.com/photos/ZHvM3XIOHoE",
+      "author_name": "David Wilson",
+      "post_date": "2024-10-10",
+      "reading_time": 7,
+      "hash_tags": ["AI", "Healthcare", "Tech"],
+      "post_description": "Artificial intelligence is reshaping the healthcare industry, from diagnosis to treatment. Discover the impact of AI on patient care."
+    },
+    {
+      "id": 8,
+      "cover_image": "https://unsplash.com/photos/qlYQb7B9vog",
+      "title": "The Evolution of Autonomous Vehicles: Are We There Yet?",
+      "author_image": "https://unsplash.com/photos/Ax-IznGrk70",
+      "author_name": "Rachel Green",
+      "post_date": "2024-10-08",
+      "reading_time": 6,
+      "hash_tags": ["Autonomous Vehicles", "Tech", "Innovation"],
+      "post_description": "Autonomous vehicles are closer than ever to becoming a reality. Learn about the latest advancements and challenges in this evolving field."
+    },
+    {
+      "id": 9,
+      "cover_image": "https://unsplash.com/photos/VOAo1pVROgU",
+      "title": "The Internet of Things: Connecting Our World",
+      "author_image": "https://unsplash.com/photos/yt8-xGdYyzA",
+      "author_name": "Lucas Adams",
+      "post_date": "2024-10-06",
+      "reading_time": 5,
+      "hash_tags": ["IoT", "Tech", "Smart Devices"],
+      "post_description": "From smart homes to connected cities, explore how the Internet of Things is creating a more connected and efficient world."
+    },
+    {
+      "id": 10,
+      "cover_image": "https://unsplash.com/photos/GwVmQlFb1HM",
+      "title": "Augmented Reality: Transforming User Experiences",
+      "author_image": "https://unsplash.com/photos/rDEOVtE7vOs",
+      "author_name": "James Martinez",
+      "post_date": "2024-10-04",
+      "reading_time": 5,
+      "hash_tags": ["Augmented Reality", "AR", "Tech"],
+      "post_description": "Augmented reality is changing the way we interact with the digital world. Discover its applications and future potential across various industries."
+    }
+  ]
+  
