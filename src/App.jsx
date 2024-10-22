@@ -1,15 +1,17 @@
-import Blogs from "./components/Blogs"
-import Header from "./components/Header"
+import Blogs from "./components/Blogs";
+import Bookmarks from "./components/Bookmarks";
+import Header from "./components/Header";
 
 function App() {
-
   return (
     <>
       <Header></Header>
-      <h1>Knowledge Cafe</h1>
-      <Blogs></Blogs>
+      <div className="grid grid-cols-3">
+        <Blogs></Blogs>
+        <Bookmarks></Bookmarks>
+      </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
